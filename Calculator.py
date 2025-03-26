@@ -2,7 +2,7 @@ menu = int(input("1.입력한 수식 계산 2.두 수 사이의 합계 :"))
 sum = 0
 
 if menu == 1:
-    cal = input("***수식을 입력하세요.:")
+    cal = input("수식을 입력하세요.:")
     print(cal+"의 결과는",eval(cal),"입니다다")
 
 elif menu == 2:

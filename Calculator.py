@@ -13,4 +13,4 @@ elif menu == 2:
     print(num1,"+ ... +",num2,"는",sum,"입니다")
     
 else:
-    print("1 또는 2만 입력해주세요")
+    print("1 또는 2만 입력해주세요요")
